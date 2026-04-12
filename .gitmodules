@@ -1,0 +1,3 @@
+[submodule "researcher-api-client"]
+	path = researcher-api-client
+	url = https://github.com/gtowizard-ai/researcher-api-client.git
